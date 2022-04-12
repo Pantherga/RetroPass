@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
 <dataSource>
-  <!--<type>EmulationStation</type>
-  <relativePath>./EmulationStation/roms</relativePath>-->
-  <type>LaunchBox</type>
-  <relativePath>./LaunchBox</relativePath>
+	<type>LaunchBox</type>
+	<relativePath>./LaunchBox</relativePath>
 </dataSource>
 
 
